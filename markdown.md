@@ -35,3 +35,5 @@ __git add text.md__
 **git commit -m "Initial commit"**
 
 Конфликт будет
+
+сейчас мы будем пушать
